@@ -1,0 +1,2 @@
+C:\Users\Lauane Pinho\Documents\Visual Studio 2019\Projeto\NovoProjeto\NovoProjeto\obj\Debug\NovoProjeto.csprojAssemblyReference.cache
+C:\Users\Lauane Pinho\Documents\Visual Studio 2019\Projeto\NovoProjeto\NovoProjeto\obj\Debug\NovoProjeto.csproj.CoreCompileInputs.cache
